@@ -15,7 +15,7 @@ When I am not in a dark microscopy room, I am proably out in the mountaines taki
 </br>
 </br>
 
-Here I share a software and hardware, which I am developing as a part of my postdoc in Nancy Kleckner lab at MCB Harvard
+Here I share software and hardware, which I am developing as a part of my postdoc in Nancy Kleckner lab at MCB Harvard
 
 
  [Matlab Software for FFT Analysis of Biological Oscillations](https://github.com/mariavmukhina/FFT_Analysis_of_Biological_Oscillations)
