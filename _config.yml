@@ -1,5 +1,5 @@
 title: Maria Mukhina, PhD
-logo: "https://github.com/mariavmukhina/mariavmukhina.github.io/blob/main/images/dislocation-glide-ML-1.jpg"
+logo: "/images/dislocation-glide-ML-1.jpg"
 theme: jekyll-theme-minimal
 markdown: kramdown
 classes: wide
