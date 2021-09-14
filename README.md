@@ -15,4 +15,6 @@ Here I share a software and hardware, which I am developing as a part of my post
 
 
  [Matlab Software for FFT Analysis of Biological Oscillations](https://github.com/mariavmukhina/FFT_Analysis_of_Biological_Oscillations)
+ 
+ [Custom TTL Controller for Microscope](https://github.com/mariavmukhina/Custom_TTL_Controller_for_Microscope)
 
