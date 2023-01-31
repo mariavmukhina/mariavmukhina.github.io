@@ -24,7 +24,7 @@ Here I share software and hardware, which I am developing as a part of my postdo
 
  [Matlab Software for FFT Analysis of Biological Oscillations](https://github.com/mariavmukhina/FFT_Analysis_of_Biological_Oscillations)
  
- [Custom TTL Controller for Microscope](https://github.com/mariavmukhina/Custom_TTL_Controller_for_Microscope)
+ [TTL Controller for High-Speed Microscopy](https://github.com/mariavmukhina/TTL_Controller_for_High-Speed_Microscopy)
  
  [Software for Nikon Ti2 Control](https://github.com/mariavmukhina/Software_for_Microscope_Control)
 
